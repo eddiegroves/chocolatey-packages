@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Cntlm</id>
+    <id>cntlm</id>
     <title>Cntlm</title>
-    <version>0.92.3</version>
+    <version>0.92.3.2</version>
     <authors>David Kubicek</authors>
     <owners>Eddie Groves</owners>
     <summary>Cntlm</summary>
     <description>Cntlm - Fast NTLM authentication proxy accelerator with tunneling, written in pure C.</description>
     <projectUrl>http://cntlm.sourceforge.net</projectUrl>
-    <tags>proxy ntlm</tags>
+    <tags>cntlm proxy ntlm admin</tags>
     <copyright>Copyright (C) David Kubicek</copyright>
     <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>http://eddiegroves.github.io/chocolatey-packages/cntlm.png</iconUrl>
-    <releaseNotes></releaseNotes>
+    <iconUrl>https://cdn.rawgit.com/eddiegroves/chocolatey-packages/0994a7c303ef49fd2e2d37037389f37ddb60d57e/Cntlm/cntlm.png</iconUrl>
+    <releaseNotes>Installs 0.92.3, released on 2012-03-07.</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
