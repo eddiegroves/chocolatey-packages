@@ -13,7 +13,7 @@
     <copyright>Copyright (C) David Kubicek</copyright>
     <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/eddiegroves/chocolatey-packages/0994a7c303ef49fd2e2d37037389f37ddb60d57e/Cntlm/cntlm.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/eddiegroves/chocolatey-packages/d5f1e2c744b8d89bee1eee40e7cb17169ab8213d/Cntlm/cntlm.png</iconUrl>
     <releaseNotes>Installs 0.92.3, released on 2012-03-07.</releaseNotes>
   </metadata>
   <files>
